@@ -1,8 +1,8 @@
 [main]
 host = https://www.transifex.com
 
-[openbudgets.israel-geopolitical]
-file_filter = <lang>-geopolitical.csv
-source_file = en-geopolitical.csv
+[israel-geopolitical.divisions]
+file_filter = <lang>-geopolitical-divisions.csv
+source_file = en-geopolitical-divisions.csv
 source_lang = en
 type = Magento (csv)
